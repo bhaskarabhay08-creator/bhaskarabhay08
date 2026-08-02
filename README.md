@@ -67,3 +67,4 @@ AI-powered platform for fraud and misinformation detection.
 
 - LinkedIn: https://www.linkedin.com/in/abhay-bhaskar-8b10b7387/
 - GitHub: https://github.com/bhaskarabhay08
+- Portfolio: https://bhaskarabhay08-creator.github.io/abhay-portfolio/
